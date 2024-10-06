@@ -87,20 +87,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/Nathan-Mwai/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Nathan-Mwai&theme=react&border=61dafb&hide_border=true" alt="Nathan-Mwai" />
-    </a>
-    <a href="https://github.com/Nathan-Mwai/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Mwai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    </a>
-  </div>
-  <br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/Nathan-Mwai/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathan-Mwai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/Nathan-Mwai/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Nathan-Mwai&theme=react&border=61dafb&hide_border=true" alt="Nathan-Mwai's Streak Stats" />
+  </a>
+  <a href="https://github.com/Nathan-Mwai/github-readme-stats" title="Go to Source">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Mwai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  </a>
+</div>
+<br><br>
+<div align="center">
+  <a href="https://github.com/Nathan-Mwai/github-readme-stats" title="Go to Source">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathan-Mwai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+  </a>
+</div>
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Mwai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -126,11 +126,6 @@
 ###
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/Nathan-Mwai/Nathan-Mwai/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
