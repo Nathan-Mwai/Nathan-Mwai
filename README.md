@@ -139,6 +139,6 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/Nathan-Mwai/Nathan-Mwai/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/Nathan-Mwai/Nathan-Mwai/blob/output/github-contribution-grid-snake2.svg)
 
 ###
