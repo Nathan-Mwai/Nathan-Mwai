@@ -139,3 +139,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Nathan-Mwai/Nathan-Mwai/output/snake.svg" alt="Snake animation" />
+
+###
