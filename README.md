@@ -40,7 +40,11 @@
 <br><br><br>
 </div>
 <div>
+  
+###
+![snake animation](https://github.com/Nathan-Mwai/Nathan-Mwai/blob/output/snake.svg)
 
+###
 ###
 <div align="center">
   <img src="https://profile-counter.glitch.me/Nathan-Mwai/count.svg?"  />
@@ -138,7 +142,4 @@
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </div>
 
-###
-![snake animation](https://github.com/Nathan-Mwai/Nathan-Mwai/blob/output/snake.svg)
 
-###
