@@ -115,14 +115,20 @@
 
 <img align="right" height="170" src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" />
 <div align="left">
-<a href = "">
+<a href = "https://www.instagram.com/berryrexs/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
 </a>
+<a href="https://www.twitch.tv/berryrexs" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitch logo"  />
+</a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+<a href="mailto:mwaimwaniki001@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+</a>
+<a href="https://www.linkedin.com/in/nathan-mwaniki-a9a28a2a5/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  <a href="YOUR_MEDIUM_BLOG_LINK" target="_blank">
+</a>
+  <a href="https://medium.com/@nathan.mwai" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=00AB6C&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="Medium logo" />
 </a>
 </div>
